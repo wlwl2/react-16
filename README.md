@@ -1,6 +1,6 @@
 # React 16
 
-Documentation and Tutorials for React version 16.
+Notes and Tutorials for React version 16.
 
 For most projects start development by running `npm start`
 
