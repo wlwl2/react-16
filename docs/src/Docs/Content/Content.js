@@ -6,9 +6,10 @@ class Content extends Component {
     return (
       <div className='Content'>
         <ul>
-          <li><a href='https://reactjs.org/docs/dom-elements.html'>DOM Elements</a></li>
+          <li><a href='https://reactjs.org/docs/dom-elements.html#all-supported-html-attributes'>All Supported HTML Attributes</a></li>
           <li><a href='https://reactjs.org/docs/events.html'>Events</a></li>
           <li><a href='https://reactjs.org/docs/lists-and-keys.html'>Lists and Keys</a></li>
+          <li><a href='https://reactjs.org/docs/dom-elements.html'>DOM Elements</a></li>
         </ul>
       </div>
     )
