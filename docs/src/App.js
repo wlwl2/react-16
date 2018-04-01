@@ -1,16 +1,15 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
+import Docs from './Docs/Docs'
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">React 16 Notes</h1>
-        </header>
+      <div className='App'>
+        <Docs />
       </div>
-    );
+    )
   }
 }
 
-export default App;
+export default App
